@@ -1,2 +1,2 @@
 # Message-Box
-Message Box structure using Html &amp; CSS
+Message Box structure using Html and CSS
